@@ -1,1 +1,1 @@
-# C++-Exercicios-TecnicoTI
+# C-Exercicios-TecnicoTI
